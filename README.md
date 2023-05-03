@@ -8,6 +8,10 @@ Introduction
 ------------
 In this codelab, you build an Android app that rolls a dice and shows the result on screen.
 
+<img width="242" alt="Screenshot 2023-05-03 at 11 04 56 PM" src="https://user-images.githubusercontent.com/18753613/235971594-80ce0dbd-bc51-4881-9c0d-c80cafce0178.png"><img width="250" alt="Screenshot 2023-05-03 at 11 04 45 PM" src="https://user-images.githubusercontent.com/18753613/235971813-0f58dec3-e496-4fa6-abfb-88a08539869c.png">
+
+
+
 Pre-requisites
 --------------
 
